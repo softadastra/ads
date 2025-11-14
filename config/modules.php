@@ -9,5 +9,6 @@ return array (
     1 => 'Promotion',
     2 => 'Campaign',
     3 => 'Creative',
+    4 => 'Delivery',
   ),
 );
