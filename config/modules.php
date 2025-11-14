@@ -7,5 +7,6 @@ return array (
   array (
     0 => 'Market',
     1 => 'Promotion',
+    2 => 'Campaign',
   ),
 );
