@@ -10,5 +10,6 @@ return array (
     2 => 'Campaign',
     3 => 'Creative',
     4 => 'Delivery',
+    5 => 'Targeting',
   ),
 );
