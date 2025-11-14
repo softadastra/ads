@@ -12,5 +12,6 @@ return array (
     4 => 'Delivery',
     5 => 'Targeting',
     6 => 'Billing',
+    7 => 'Tracking',
   ),
 );
