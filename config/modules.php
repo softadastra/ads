@@ -11,5 +11,6 @@ return array (
     3 => 'Creative',
     4 => 'Delivery',
     5 => 'Targeting',
+    6 => 'Billing',
   ),
 );
