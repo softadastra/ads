@@ -8,5 +8,6 @@ return array (
     0 => 'Market',
     1 => 'Promotion',
     2 => 'Campaign',
+    3 => 'Creative',
   ),
 );
